@@ -1,11 +1,11 @@
 (page 8)
-		Arlésiennes
+#		Arlésiennes
 
-==Ingrédients==
+## Ingrédients
 * pâte feuilletée
 * sucre en poudre
 
-==Recette==
+## Recette
 Faire une pâte feuilletée; Dans le sucre en poudre l'étaler en
 rectangles trois fois plus longs que larges. Rouler ce rectangles dans
 le sens de la longeur trois ou quatre fois seuleument. Coller
