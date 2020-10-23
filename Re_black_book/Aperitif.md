@@ -1,8 +1,8 @@
-		h1.Apéritif=
+# Apéritif
 
 (feuille volante)
 
-==Ingrédients==
+## Ingrédients 
 * 40 fleurs de camomille
 * 1/4 citron
 * 150 g sucre
@@ -10,6 +10,6 @@
 * blanc sec
 * 1 cuillerée de rhum.
 
-==Recette==
+## Recette
 Laisser macérer 48 heures puis filtrer.
 Ajouter le rhum à la fin
