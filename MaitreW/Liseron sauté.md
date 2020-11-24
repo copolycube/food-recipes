@@ -1,7 +1,7 @@
 # Liseron sauté
 cours 2011-12-03
 
-# Ingrédients
+## Ingrédients
 * Liseron, une belle botte
 * ail
 * « bouillon » de poule (granulés)
