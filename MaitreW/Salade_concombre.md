@@ -1,5 +1,5 @@
 # Salade de concombre 
-cours 2011-12-03
+cours 2011-12-03 - édité avec autre version.
 
 ## Ingrédients pour une dizaine de personnes :
 * 2 concombres
