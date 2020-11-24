@@ -10,21 +10,14 @@ cours 2011-12-03
 ## Recette
 
 * Préparer les crevettes
-
-Décortiquer les crevettes
-
-Saler les crevettes (sel fin), ¼ cuillère à café de « bouillon », mélanger le tout et petit à petit incorporer ¼ ou ½ œuf battu (entier) pour légèrement enrober les crevettes. Réserver.
+Décortiquer les crevettes. Saler les crevettes (sel fin), ¼ cuillère à café de « bouillon », mélanger le tout et petit à petit incorporer ¼ ou ½ œuf battu (entier) pour légèrement enrober les crevettes. Réserver.
 * Préparer les concombres
 
-Couper les concombres en 2 dans la longueur (sans les éplucher)
+Couper les concombres en 2 dans la longueur (sans les éplucher). Enlever les pépins
 
-Enlever les pépins
+Poser les concombre chaire sur la planche, et sans les couper entièrement, entailler le concombre tout les 3-4 mm sur toute la longueur  en diagonale dans un sens puis dans l'autre. On obtient alors des entailles en losanges sur le dessus du concombre.
 
-Poser les concombre chaire sur la planche, et sans les couper entièrement, entailler le concombre tout les 3-4 mm sur toute la longueur  en diagonale dans un sens puis dans l'autre. 
-
-On obtient alors des entailles en losanges sur le dessus du concombre.
-
-Couper le concombre ainsi préparé, par morceaux d'environ 5cm. Séparer chaque morceau en 2 sur longueur. 
+Couper le concombre ainsi préparé, par morceaux d'environ 5cm de long. Séparer chaque morceau en 2 sur longueur. 
 
 ### Cuisson
 Dans un fond d'huile chaude, faire brièvement sauter le concombre avec ail, sel et bouillon. Puis le mettre dans un plat.
