@@ -1,7 +1,7 @@
 ## Turbo à la vapeur
 cours 2011-12-03
 
-#Ingrédients
+## Ingrédients
 * Turbo
 * gingembre
 * ciboule
@@ -10,7 +10,7 @@ cours 2011-12-03
 * coriandre
 * sucre
 * sauce de soja claire
-##Recette
+## Recette
 Dans un wok, verser un fond d'eau et mettre le poisson sur un socle afin qu'il ne touche pas l'eau.
 
 Faire cuire une 20aine de minutes.
