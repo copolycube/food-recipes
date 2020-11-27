@@ -1,4 +1,8 @@
 # Recette raviolis "langouste" aux crevettes
+Stage de cuisine chinoise du 9 mai 2009 par M° Wang Li Kun
+
+
+Ces raviolis sont frits et souvent mangés avec de la mayonaise dans les restaurants chinois en France.
 
 ## Ingrédients pour une dizaine de personnes :
 * 1 paquet de feuilles Won Ton (pâte à frire)
