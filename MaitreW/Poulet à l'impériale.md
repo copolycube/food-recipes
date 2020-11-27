@@ -17,7 +17,8 @@
 * 1 petit oignon blanc frais (appelé aussi ciboulette dans les magasins asiatiques)
 * sel, poivre
 * 1 ou 2 cc huile de sésame
-Préparation :
+
+## Préparation :
 * champignons : faire tremper pendant au moins 1⁄2 h puis coupés en dés de 2 cm
 * dans un bol, mettre le poulet + sel + poivre (peu) + granulés de
 bouillon + le 1⁄2 jaune d'oeuf + farine de tapioca. Bien mélanger et laisser reposer 5 à 10 minutes.
