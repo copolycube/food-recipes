@@ -90,7 +90,7 @@
  * [Sauce_aux_capres](Sauce_aux_capres.md)
  * [Sauce_madere](Sauce_madere.md)
  * [Saucisses](Saucisses.md)
- * [Saucisson](Saucisson.md)
+ * [Saucissons sec ou a l'ail](Saucissons sec ou a l'ail.md)
  * [Sirop_de_citron](Sirop_de_citron.md)
  * [Sirop_de_groseilles](Sirop_de_groseilles.md)
  * [Sirop_de_sucre](Sirop_de_sucre.md)
