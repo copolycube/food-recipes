@@ -1,4 +1,3 @@
-#		Saucisson
 #		Saucisson sec
 
 (page 48)
