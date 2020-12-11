@@ -15,7 +15,7 @@ paquet de levure.
 
 Beurrer un moule et mettre au fout pas trop chaud (une bonne 1/2 heure).
 
-/*************************************************************/
+---
 
 # Gâteau
 
@@ -38,7 +38,10 @@ Faire cuire à four modéré dans un moule beurré.
 (sucre ?)
 
 
-/*************************************************************/
+---
+# Gâteau
+
+Recette 3 (page 55)
 
 (page 55)
 
