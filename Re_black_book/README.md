@@ -1,4 +1,4 @@
-Liste de recettes
+# Re_black_book - Liste de recettes
 
  * [Aperitif](Aperitif.md)
  * [Arlesiennes](Arlesiennes.md)
@@ -84,7 +84,6 @@ Liste de recettes
  * [Pumpkin_pie](Pumpkin_pie.md)
  * [Quiche_lorraine](Quiche_lorraine.md)
  * [Raisine](Raisine.md)
- * [Readm](Readme.m)
  * [Rillettes_de_lapin_sauvage_ou_franc](Rillettes_de_lapin_sauvage_ou_franc.md)
  * [Sable](Sable.md)
  * [Sauce_Bechamel](Sauce_Bechamel.md)
