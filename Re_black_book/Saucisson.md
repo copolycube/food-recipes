@@ -1,6 +1,5 @@
-		Saucisson
-
-		Saucisson sec
+#		Saucisson
+#		Saucisson sec
 
 (page 48)
 
@@ -27,8 +26,8 @@ Ajouter au pétrissage une pincée de salpêtre et de sucre. Suspendre
 les saucissons dans un endroit sec. Ne les consommer au minimum qu'un
 mois après
 
-/*************************************************************/
-		Saucisson à l'ail
+---
+# Saucisson à l'ail
 
 (page 49)
 
