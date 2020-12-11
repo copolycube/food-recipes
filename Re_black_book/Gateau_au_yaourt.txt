@@ -2,7 +2,7 @@
 
 (page 74)
 
-==Ingrédients==
+## Ingrédients
 * 1 yaourt (le pot sert de mesure)
 * 1 pot de sucre
 * 3 pots de farine
@@ -11,7 +11,7 @@
 * 1/2 paquet de levure
 * raisins secs
 
-==Recette==
+## Recette
 Faire tremper les raisins. 
 
 Mélanger tout les autres ingrédientes.

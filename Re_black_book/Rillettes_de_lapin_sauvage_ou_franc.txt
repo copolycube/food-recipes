@@ -2,7 +2,7 @@
 
 (page 32)
 
-==Ingrédients==
+## Ingrédients
 * 1 lapin
 * poids égal de lard
 * 2 oignons
@@ -12,7 +12,7 @@
 * poivre
 * bouquet garni
 
-==Recette==
+## Recette
 Couper le lapin en morceaux.
 Mettre poids égal de lard et faire cuire 9 heures doucement et sans
 découvrir.

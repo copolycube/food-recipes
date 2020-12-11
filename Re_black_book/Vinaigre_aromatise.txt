@@ -2,7 +2,7 @@
 
 (page 42)
 
-==Ingrédients==
+## Ingrédients
 * 1/4 L vinaigre de vin blanc
 * 2 ou 3 belles branches d'estragon de 10 à 15 cm
 * 3 à 4 branches de cerfeuil
@@ -23,6 +23,6 @@
 * 1 brin de céleri
 * 1 brin de basilic
 
-==Recette==
+## Recette
 Mettez à mariner pendant 15 jours dans 1/4 de vinaigre de vin blanc.
 Exposer au soleil si possible pour activer le dégagement des parfums.

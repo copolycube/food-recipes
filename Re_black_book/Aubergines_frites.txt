@@ -2,7 +2,7 @@
 
 (page 29)
 
-==Ingrédients==
+## Ingrédients
 * aubergines
 * sel
 * huile (friture)
@@ -10,7 +10,7 @@
 * persil
 * beurre
 
-==Recette==
+## Recette
 Les couper dans le sens de la longueur en tranches minces; les déposer
 dans un plat en les saupoudrant de sel et en les laissant ainsi
 pendant une heure. Les égoutter. Les essuyer sur un linge, les faire

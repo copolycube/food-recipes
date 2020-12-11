@@ -2,7 +2,7 @@
 
 (page 89)
 
-==Ingrédients==
+## Ingrédients
 * 1 pot de mascarpone
 * 3 cuillères à soupe de sucre
 * 1/2 L  de café froid
@@ -11,7 +11,7 @@
 * cacao non sucré
 * 1 pincée de sel
 
-==Recette==
+## Recette
 Séparer les blancs des jaunes.
 Battre les blancs en neige avec le sel.
 Battre les jaunes avec le sucre.

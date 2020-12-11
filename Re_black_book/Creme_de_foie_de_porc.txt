@@ -2,7 +2,7 @@
 
 (page 26)
 
-==Ingrédients==
+## Ingrédients
 * 250 g foie de porc
 * 250 g lard
 * 125 g mie de pain
@@ -11,7 +11,7 @@
 * 1 cuil fine (?)
 * Truffes selon gout.
 
-==Recette==
+## Recette
 Passer au hachoir foie et lard. Bouillir la mie de pain dans le
 lait. Bien mélanger et ajouter deux oeufs entiers et une cuillerée de
 fine (farine?)

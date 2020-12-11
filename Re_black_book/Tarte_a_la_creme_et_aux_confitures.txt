@@ -2,7 +2,7 @@
 
 (page 59)
 
-==Ingrédients==
+## Ingrédients
 * pâte à tarte
 * crème épaisse
 * blancs d'oeufs
@@ -10,7 +10,7 @@
 * gelée de groseille
 * Kirsch
 
-==Recette==
+## Recette
 Faire une pâte à tarde sur laquelle vous mettez une crème épaisse que
 vous passez au four. Une fois bien prise, vous y ajoutez les blancs
 battus en neige et sucrés, et vous repassez au four.

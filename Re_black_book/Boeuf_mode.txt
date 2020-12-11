@@ -2,7 +2,7 @@
 
 (page 41)
 
-==Ingrédients==
+## Ingrédients
 * graisse de porc
 * carottes
 * oignons
@@ -11,7 +11,7 @@
 * tomates
 * sucre
 
-==Recette==
+## Recette
 Mettre graisse de porc dans la cocotte avec carottes et oignons.
 Faire revenir avec ces légumes un morceau de boeuf dans le jarret ou
 paleron et un os de veau (jarret ou pied). 

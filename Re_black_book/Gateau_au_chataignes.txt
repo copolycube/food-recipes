@@ -2,7 +2,7 @@
 
 (page 61)
 
-==Ingrédients==
+## Ingrédients
 * châtaignes
 * beurre
 * sucre en poudre
@@ -11,7 +11,7 @@
 * beurre très frais
 * biscuits
 
-==Recette==
+## Recette
 Eplucher les châtaignes, faire cuire à l'eau un peu salée. Enlever la
 seconde peau.
 

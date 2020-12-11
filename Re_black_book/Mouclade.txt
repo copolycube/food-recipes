@@ -2,7 +2,7 @@
 
 (feuille volante)
 
-==Ingrédients==
+## Ingrédients
 * 3 Kg Moules
 * 4 echalottes
 * 4 verres de Muscadet
@@ -15,7 +15,7 @@
 * 2 cuillerées à café de sucre en poudre
 * 3 cuillerées de farine
 
-==Recette==
+## Recette
 1°) Grattez, au besoin nettoyez les moules. Epluchez les échalottes et
 hachez les. Lavez le persil et coupez le finement. Mettez le beurre,
 dans une casserole avec échalottes et persil et faites revenir à feu

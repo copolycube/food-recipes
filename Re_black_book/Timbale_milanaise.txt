@@ -3,7 +3,7 @@
 			=Recette 1=
 (page 15)
 
-==Ingrédients==
+## Ingrédients
 * macaronis ou nouilles
 * fromage rapé
 * beurre
@@ -14,7 +14,7 @@
 * crevettes
 * moules
 
-==Recette==
+## Recette
 Cuire macaronis ou nouilles, égoutter.
 Mettez les dans un saladier.
 Ajouter  fromage rapé, beurre, sauce tomate, champignons jambon,
@@ -27,7 +27,7 @@ au four.
 			=Recette 2=
 (page 21)
 
-==Ingrédients==
+## Ingrédients
 * sauche blance au bouillon
 * sel
 * poivre
@@ -42,7 +42,7 @@ au four.
 * gruyère
 * purée de tomate
 
-==Recette==
+## Recette
 Faire une sauce blanche mouillée avec du bouillon. Saler, poivrer,
 ajouter un bouquet garni et laisser cuire environ vingt minutes.
 Retirer le bouquet avant de mettre dans la sauce qui suit : un quart

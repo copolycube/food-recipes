@@ -2,7 +2,7 @@
 			Pâte brisée de Jeanne
 
 (feuille volante)
-==Ingrédients==
+## Ingrédients
 * 600 g farine
 * 200 g beurre mou
 * 1 oeuf
@@ -10,14 +10,14 @@
 * sel
 
 (page 77)
-==Ingrédients==
+## Ingrédients
 * 750 g farine
 * 250 g beurre mou
 * 2 oeufs
 * 1 verre de lait
 * sel
 
-==Recette==
+## Recette
 Pétrir les ingrédients ensemble.
 
 

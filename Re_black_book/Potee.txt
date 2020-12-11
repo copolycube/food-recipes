@@ -1,7 +1,7 @@
 		Potée
 
 (page 40)
-==Ingrédients==
+## Ingrédients
 * lard de poitrine salé
 * carottes
 * navet
@@ -17,7 +17,7 @@
 * côte de porc
 * saucisses
 
-==Recette==
+## Recette
 Faire revenir dans une cocotte, du lard de poitrine salé, ajouter
 carottes, navet, oignons. Faire revenir à l'étouffée. Y ajouter un
 chou préalablement blanchi, pommes de terre, poireau, fèves, petits

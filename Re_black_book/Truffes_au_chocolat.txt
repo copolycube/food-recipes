@@ -1,12 +1,12 @@
 		Truffes au Chocolat
 
 (page 20)
-==Ingrédients==
+## Ingrédients
 * 1/2 livre de chocolat
 * 4 cuil. à soupe de lait
 * 100 g beurre frais
 
-==Recette==
+## Recette
 Mélanger le chocolat fondu dans le lait en évitant de laisser bouillir
 Ajouter ensuite sans chauffer le beurre frais.
 Bien remuer et ajotuer un jaune d'oeuf et remuser à nouveau. 
@@ -21,14 +21,14 @@ granulé.
 
 (page 66)
 
-==Ingrédients==
+## Ingrédients
 * 1/2 livre de chocolat
 * 4 cuillerées à soupe de lait
 * 100 g beurre frais
 * 1 jaune d'oeuf
 * chocolat rapé et cacao
 
-==Recette==
+## Recette
 Faire fondre le chocolat dans 4 cuillerées 1a soupe de lait en évitant
 de laisser bouillir.
 
@@ -46,7 +46,7 @@ dans du chocolat et du cacao.
 
 (page 66)
 
-==Ingrédients==
+## Ingrédients
 * 100 g chocolat fin à cuire
 *  85 g beurre frais
 * 125 g sucre glace
@@ -56,7 +56,7 @@ dans du chocolat et du cacao.
 *  30 g cacao non sucré pour enrober
 *   1 grosse cuillerée de crème fraîche (pour ceux qui l'aiment)
 
-==Recette==
+## Recette
 Faire fondre le chocolat à feu doux dans deux cuillerées de lait 
 (une seule avec la crème fraîche). Lui ajouter les jaunes d'oeufs, le
 beurre amolli mais non fondu. Bien mélanger pour obtenir une pâte

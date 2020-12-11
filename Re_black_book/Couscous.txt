@@ -2,7 +2,7 @@
 
 (page 70)
 
-==Ingrédients==
+## Ingrédients
 * viande à os (mouton de préférence, ou boeuf ou poulet)
 * pois chiches
 * carottes
@@ -15,7 +15,7 @@
 
 * semoule
 
-==Recette==
+## Recette
 Faire revenir la viande dans l'huile pendant 15 à 20 minutes avec sel
 poivre, puis ajouter les légumes et les couvrir d'eau, mettre aussi
 piment doux (une poignée). Faire cuire à peu près 2 heures.

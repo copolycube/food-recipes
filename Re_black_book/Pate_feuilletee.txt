@@ -1,7 +1,7 @@
 (page 3)
 		Pâte Feuilletée
 
-==Ingrédients==
+## Ingrédients
 * 1 livre de farine (600 g)
 * 10 g de sel       (idem)
 * eau		    (1/4 L)
@@ -10,7 +10,7 @@
 (): proportions atlernatives
 
 
-==Recette==
+## Recette
 Prendre une livre de farine, 10 grammes de sel et détremper à l'eau
 froide mais en pâte ferme. Ensuite, ajouter une livre de beurre bien
 travaillé et donner 6 tours deux par deux. Laisser reposer la pâte à

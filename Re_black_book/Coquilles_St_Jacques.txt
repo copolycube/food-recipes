@@ -1,7 +1,7 @@
 (page 1)
 	Coquilles Saint-Jacques
 
-==Ingrédients==
+## Ingrédients
 * Coquilles Saint-Jacques (entières)
 * Crevettes (entières)
 * Moules
@@ -12,7 +12,7 @@
 * Fromage gruyère
 * Beurre
 
-==Recette==
+## Recette
  Faire ouvrir les coquilles sur le feu ou dans le four. Les
 laver. Enlever les déchets et conserver la noix et la langue. Faire
 cuire des crevettes.

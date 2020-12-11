@@ -1,12 +1,12 @@
 (page 13)
 		Sirop de citron
 
-==Ingrédients==
+## Ingrédients
 * 500 g sucre
 * eau
 * 10 citrons non traités
 
-==Recette==
+## Recette
 Mettez dans une bassine sur le feu 500 g  de sucre et un verre d'eau;
 faites jeter 2 ou 3 bouillons et laisser refroidir. Une fois froid,
 mettez-y le zeste de 10 citrons, couvrez et laissez infuser pendant 24

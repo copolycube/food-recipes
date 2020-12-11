@@ -2,14 +2,14 @@
 
 (page 85)
 
-==Ingrédients==
+## Ingrédients
 * courgettes
 * estragon
 * ail
 * citron
 * huile d'olive
 
-==Recette==
+## Recette
 (La veille pour le lendemain, froid).
 
 Couper les courgettes en rondelles et les faire cuire à l'huile

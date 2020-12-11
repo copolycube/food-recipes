@@ -1,14 +1,14 @@
 (page 16)
 		Crème anglaise
 
-==Ingrédients==
+## Ingrédients
 * 1/2 L lait
 * 1 gousse de vanille
 * 4 cuiller à bouche de sucre
 * 3 oeufs
 * 
 
-==Recette==
+## Recette
 Mettre dans une casserole un demi-litre de bon lait, le faire bouillir
 avec une gousse de vanille et 4 cuillerées à bouche de sucre en
 poudre. 

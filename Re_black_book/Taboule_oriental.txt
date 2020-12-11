@@ -2,7 +2,7 @@
 
 (page 78)
 
-==Ingrédients==
+## Ingrédients
 * semoule
 * eau
 * tomates
@@ -16,7 +16,7 @@
 * feuilles de menthe
 * cibolette
 
-==Recette==
+## Recette
 Couper le poivron en morceaux. Mélanger le tout.
 
 Avant de servir, ajouter des feuilles de menthe coupées finement et de

@@ -2,7 +2,7 @@
 
 (pas encore ajouté)
 
-==Ingrédients==
+## Ingrédients
 * 300 g échine de port maigre
 * 300 g boudin noir
 * 8   	pruneaux
@@ -21,7 +21,7 @@
 * 	poivre
 
 
-==Recette==
+## Recette
 Griller à sec les pignons dans une poêle en les gardants
 blonds. Réserver. Couper l'échine de porc en petits cubes dù environ
 2 cm sur 2. Oter la peau du boudin noir et le couper en

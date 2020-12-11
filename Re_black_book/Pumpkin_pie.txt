@@ -22,7 +22,7 @@
 * 1 c. à café cannelle, gingembre, muscade 
 * 2 clous de girofle
 
-==Recette==
+## Recette
 Battre les oeufs et la citrouille écraser avec le sucre, les épices la
 crème et le lait.
 

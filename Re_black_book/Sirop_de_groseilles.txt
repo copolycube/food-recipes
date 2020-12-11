@@ -1,12 +1,12 @@
 (page 13)
 		Sirop de groseilles
 
-==Ingrédients==
+## Ingrédients
 * 2/3 groseilles rouges pas trop mures
 * 1/3 cerise aigres
 * sucre
 
-==Recette==
+## Recette
 Ecrasez ensemble 2/3 de groseilles rouges pas trop mures, et 1/3 de
 cerises aigres. Mettez dans une terrine et laissez fermenter 24
 heures. Après ce temps, passez le tout au tamis en pressant bien les

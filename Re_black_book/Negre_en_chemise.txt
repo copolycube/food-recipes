@@ -2,14 +2,14 @@
 
 (page 26)
 
-==Ingrédients==
+## Ingrédients
 * 125 g chocolat fondu au bain-marie
 * 125 g sucre en poudre
 * 125 g amandes pilées
 * 4 jaunes d'oeuf
 * 2 blancs d'oeuf battus en neige
 
-==Recette==
+## Recette
 Le chocolat fondu, l'écraser; casser les oeufs.
 Séparer les blancs des jaunes.
 Bien battre les jaunes, mettre avec le sucre et les amandes.

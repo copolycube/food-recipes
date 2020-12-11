@@ -1,14 +1,14 @@
 (page 5)
 		Blanc Manger
 
-==Ingrédients==
+## Ingrédients
 * 1 L lait
 * 125 g sucre
 * 5 cuil. maïzena
 * 3 oeufs
 
 
-==Recette==
+## Recette
 Faire bouillir un litre de lait avec 125 grammes de sucre. Dans une
 autre casserole, délayer cinq cuillerés de maïzena avec trois oeufs
 entiers et 1 cuiller de lait froid. Quand le lait bout, le verser sur

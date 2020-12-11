@@ -2,14 +2,14 @@
 
 (page 42)
 
-==Ingrédients==
+## Ingrédients
 * graine de moutarde ou farine de moutarde
 * vin blanc
 * sel
 * épices, aromates
 * huile de table
 
-==Recette==
+## Recette
 Broyez aussi fin que possible, de la graine de moutarde noire ou
 pressez de la farine de moutarde noire(à défaut de blanche ou de grise
 naturellement). Délayez avec du vin blanc chaud : entre 45 et 35°C).
@@ -24,7 +24,7 @@ de table.
 
 (page 43)
 
-==Ingrédients==
+## Ingrédients
 * vinaigre aromatisé (cf. recette)
 * farine de moutarde blanche
 * huile d'olive
@@ -33,7 +33,7 @@ de table.
 * poivre
 * 4 épices
 
-==Recette==
+## Recette
 Pour faire la moutarde soi-même.
 Dans le vinaigre aromatisé, délayez de la farine de moutarde blanche
 avec de l'huile d'olive, un peu de vin blanc pour faire une colle

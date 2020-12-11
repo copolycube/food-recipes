@@ -3,7 +3,7 @@
 		=Recette 1: Pain d'épices de Dijon=
 
 (page 23)
-==Ingrédients==
+## Ingrédients
 * 300 g miel
 * 300 g farine
 * 1 cuillerée à café de poudre d'anis
@@ -12,7 +12,7 @@
 * 60 g sucre 
 * 1 paquet de levure alsacienne
 
-==Recette==
+## Recette
 Beurre un moule et cuire à feu doux.
 
 
@@ -20,7 +20,7 @@ Beurre un moule et cuire à feu doux.
 		=Recette 2: autre recette de pain d'épices=
 
 (page 24)
-==Ingrédients==
+## Ingrédients
 * 250 g farine
 * 250 g miel
 * 125 g sucre en poudre
@@ -30,7 +30,7 @@ Beurre un moule et cuire à feu doux.
 * 4 g bicarbonate de soude
 * 1 cuil.  de poudre d'anis
 
-==Recette==
+## Recette
 Mélanger dans cet ordre.
 
 /*************************************************************/
@@ -39,7 +39,7 @@ Mélanger dans cet ordre.
 
 (page 64)
 
-==Ingrédients==
+## Ingrédients
 * 350 g Miel
 * 125 g sucre en poudre
 * 6 cuillerées de lait
@@ -48,7 +48,7 @@ Mélanger dans cet ordre.
 * beurre
 * anis
 
-==Recette==
+## Recette
 Mettre dans une casserole, sur un feu doux et en remuant toujouts, le
 miel, le sucre et le lait. Quand tout est bien mélangé, ajouter le
 bicarbonate. Enlever du feu et incorporer la farine. Laisser reposer

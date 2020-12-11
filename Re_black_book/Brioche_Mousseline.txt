@@ -3,7 +3,7 @@
 
 			= Recette 1 =
 
-==Ingrédients==
+## Ingrédients
 * 250 g de farine
 * sel
 * lait
@@ -12,7 +12,7 @@
 * 6 oeufs
 * 250 g de beurre très frais
 
-==Recette==
+## Recette
 250 grammes de farine au milieu de laquelle on met approximativement
 sel, lait tiède, levure, une pincée de sucre en poudre. Délayer le
 tout.
@@ -29,7 +29,7 @@ four. Dorer le dessus et laisser cuire.
 		      = Recette alternative =
 (page 11)
 
-==Ingrédients==
+## Ingrédients
 * 600 g de farine
 * 10 g sel fin
 * 15 g levure
@@ -47,7 +47,7 @@ ou
 * 15 g levure
 
 
-==Recette==
+## Recette
 
 ===Levain===
 Prendre le quart de la farine, faire une fontaine, mettre au milieu 15

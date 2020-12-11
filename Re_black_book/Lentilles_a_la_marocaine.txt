@@ -2,7 +2,7 @@
 
 (page 69)
 
-==Ingrédients==
+## Ingrédients
 * lentilles
 * 2 fois le volume d'eau
 
@@ -16,6 +16,6 @@ Epices :
 * laurier
 * 5 ou 6 gousses d'ail
 
-==Recette==
+## Recette
 Dans une cocotte minute : 45 minutes.
 A la fin de la cuisson, ajouter du concentré de tomates.

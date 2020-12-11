@@ -1,7 +1,7 @@
 (page 22)
 		Cake
 
-==Ingrédients==
+## Ingrédients
 * 1 tasse créme de lait
 * 1/2 quart de beurre
 * 1/2 verre de lait
@@ -13,7 +13,7 @@
 * 1 paquet de levure
 * beurre pour le moule
 
-==Recette==
+## Recette
 Bien mélanger et ajouter un paquet de levure. Beurrer un moule et
 faire cuire une heure à feu doux.
 La pâte doit être très épaisse.
@@ -25,7 +25,7 @@ La pâte doit être très épaisse.
 
 (page 37)
 
-==Ingrédients==
+## Ingrédients
 * 175 g farine
 * 1/4 beurre
 * 1/4 sucre en poudre
@@ -34,7 +34,7 @@ La pâte doit être très épaisse.
 * fruits confits
 
 
-==Recette==
+## Recette
 Mélanger le sucre aux oeufs.
 Ajouter farine, rhum, beurre fondu.
 Verser dans un moule beurré et mettre fruits confits par couches.
@@ -46,7 +46,7 @@ Verser dans un moule beurré et mettre fruits confits par couches.
 
 (page 38)
 
-==Ingrédients==
+## Ingrédients
 * 160 g farine
 * 160 g sucre en poudre
 * 160 g beurre
@@ -55,7 +55,7 @@ Verser dans un moule beurré et mettre fruits confits par couches.
 * rhum
 * 1 paquet de levure
 
-==Recette==
+## Recette
 Faire fondre le beurre au préalable, mettre la farine, le sucre en
 poudre, bien mélanger. Séparer les blancs des jaunes. Délayer les
 jaunes avec la farine et le sucre, incorporer le beurre, battre les
@@ -75,7 +75,7 @@ Cuire une heure à four moyen.
 
 (page 56)
 
-==Ingrédients==
+## Ingrédients
 Pour 15 personnes
 * 250 g farine
 * 200 g sucre en poudre
@@ -84,7 +84,7 @@ Pour 15 personnes
 * 1 paquet de levure
 * 3 cuillers de lait
 
-==Recette==
+## Recette
 Mélanger les jaunes d'oeufs et le sucre en poudre, y ajouter le beurre
 ramolli, le lait puis la farine. En dernier lieu les raisins, les
 blancs en neige et la levure.

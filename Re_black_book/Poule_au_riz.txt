@@ -2,7 +2,7 @@
 
 (page 36)
 
-==Ingrédients==
+## Ingrédients
 * bouillon de pot au feu
 * 1 poule
 * carotte
@@ -14,7 +14,7 @@
 * sel
 * poivre
 
-==Recette==
+## Recette
 Faire cuire au préalable un pot au feu.
 Cuire la poule dans le bouillon allongé d'eau (quand il est bouillant)
 pendant environ une heure avec carotte, poireau et bouquet

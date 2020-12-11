@@ -2,7 +2,7 @@
 
 (page 49)
 
-==Ingrédients==
+## Ingrédients
 * 1 fromage blanc très égoutté
 * 250 g farine
 * 1 oeuf de beurre
@@ -10,7 +10,7 @@
 * 1 cuiller à café de sel de cuisine
 * sucre
 
-==Recette==
+## Recette
 Battre tout ensemble pendant 1/4 heure
 Prendre la pâte par cuillére et l'étaler sur un moule saupoudré de
 farine.

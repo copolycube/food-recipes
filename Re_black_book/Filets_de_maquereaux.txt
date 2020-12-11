@@ -2,14 +2,14 @@
 
 (page 65)
 
-==Ingrédients==
+## Ingrédients
 * maquereaux
 * sel
 * beurre
 * farine
 * fines herbes
 
-==Recette==
+## Recette
 Pocher les Maquereaux à l'eau salée.
 Lever les filets et les laisser dans la cuisson.
 Faire une sauce avec du beurre, un peu de farine, de fines herbes et

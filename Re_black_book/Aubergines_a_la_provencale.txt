@@ -2,7 +2,7 @@
 
 (page 29)
 
-==Ingrédients==
+## Ingrédients
 * aubergines
 * huile d'olive
 * 2 oigons
@@ -12,7 +12,7 @@
 * pain
 * bouillon
 
-==Recette==
+## Recette
 Couper en deux et saler les aubergines, les laisser dégouter pendant
 une heure .
 Les essuyer, les faire cuire à l'huile d'olive, ensuite les retirer 

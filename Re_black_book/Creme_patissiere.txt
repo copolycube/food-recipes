@@ -1,14 +1,14 @@
 (page 17)
 		Crème patissière
 
-==Ingrédients==
+## Ingrédients
 * 1 L de lait
 * 37 g  sucre
 * 100 g farine
 * 4 ou 8 oeufs
 * vanille ou kirsch
 
-==Recette==
+## Recette
 Mettre un litre de lait à bouillir. D'autre part, 37 grammes de sucre
 en poudre, 100 grammes de farine (passée au tamis), 8 jaunes ou 4
 oeufs entiers. Bien mélanger, verser le lait bouillant sur le mélange

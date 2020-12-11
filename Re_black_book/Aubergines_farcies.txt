@@ -2,7 +2,7 @@
 
 (page 28)
 
-==Ingrédients==
+## Ingrédients
 * aubergines
 * sel
 * reste de viande cuite
@@ -14,7 +14,7 @@
 * sel, poivre
 * chapelure
 
-==Recette==
+## Recette
 Couper les aubergines en deux dans le sens de la longueur.
 Les saupoudrer de sel fin et les laisser dégorger une heure.
 Les essuyer sans les endommager.

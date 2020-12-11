@@ -2,13 +2,13 @@
 
 (page 51)
 
-==Ingrédients==
+## Ingrédients
 * 1 Kg farine
 * 40 g levure
 * 20 g sel
 * eau
 
-==Recette==
+## Recette
 Faire un levain la veille au soir avec la levure, le sel, un verre
 d'eau et un peu de farine. Laisser lever toute la nuit.
 

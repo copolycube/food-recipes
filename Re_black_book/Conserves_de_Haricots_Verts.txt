@@ -1,13 +1,13 @@
 (page 14)
 		Conserves de Haricots Verts
 
-==Ingrédients==
+## Ingrédients
 * haricots verts
 * 100 g gros sel
 * 1/2 verre d'eau
 * bicarbonate
 
-==Recette==
+## Recette
 Mettre en bouteilles les haricots verts avec 100 grammes de gros sels
 par bouteilles et 1/2 verre d'eau. Boucher et cacheter.
 Mettre les bouteilles la tête en bas.
@@ -17,13 +17,13 @@ Dessaler la veille et cuire à l'eau tiède avec une cuiller de bicarbonate.
 
 (page 45)
 
-==Ingrédients==
+## Ingrédients
 * haricots verts
 * sel
 * eau
 * vinaigre
 
-==Recette==
+## Recette
 Effilser les haricots, les mettre dans un pot, les couvrir avec un
 mélange d'eau, de sel et de vinaigre, à raison d'un verre d'eau pour
 un verre de sel et un verre de vinaigre
@@ -32,11 +32,11 @@ un verre de sel et un verre de vinaigre
 
 (page 54)
 
-==Ingrédients==
+## Ingrédients
 * haricots
 * eau
 
-==Recette==
+## Recette
 Jeter les haricots dans une bassine d'eau bouillante. Les y laisser 5
 minutes, les retirer, les jeter dans l'eau froide. Les mettre à
 égoutter (5 à 10 minutes), les essuyer dans un grand torchon.

@@ -1,11 +1,11 @@
 (page 4)
 		(Liqueur)
 
-==Ingrédients==
+## Ingrédients
 * sucre
 * liqueur
 * eau
 
-==Recette==
+## Recette
 Quantité de sucre pour un litre de liqueur : 450 grammes dans un verre
 d'eau.

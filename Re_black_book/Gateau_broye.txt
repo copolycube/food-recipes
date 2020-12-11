@@ -2,7 +2,7 @@
 
 (page 47)
 
-==Ingrédients==
+## Ingrédients
 * 200 g farine
 * 100 g sucre
 * 100 g beurre
@@ -10,7 +10,7 @@
 * 1 cuillerée à bouche de crème ou 2 cuillerées de lait
 * vanille ou fleur d'oranger
 
-==Recette==
+## Recette
 Mettez votre farine sur la planche à patisserie, ajoutez le sucre et
 le sel.
 

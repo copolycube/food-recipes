@@ -2,7 +2,7 @@
 
 (page 46)
 
-==Ingrédients==
+## Ingrédients
 * 500 g farine
 * 2 oeufs
 * 80 g beurre
@@ -11,7 +11,7 @@
 * une pincée de sel
 * sucre (valeur de 3 à 4 morceaux de sucre)
 
-==Recette==
+## Recette
 Délayer dans la farine, les oeufs, le beurre et le lait dans lequel la
 levure, le sel, et le sucre ont été dissous.
 Pétrir.

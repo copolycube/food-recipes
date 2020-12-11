@@ -2,7 +2,7 @@
 
 (page 88+feuille volante)
 
-==Ingrédients==
+## Ingrédients
 * pâte brisée
 
 Migaine:
@@ -15,7 +15,7 @@ Migaine:
 * sel
 * noix de muscade, cannelle
 
-==Recette==
+## Recette
 Faire chauffer le lait.
 Faire revenir doucement les lardons (mettre le lard au freezer un peu
 avant pour le couper plus facilement) pour enlever un peu de graisse. 

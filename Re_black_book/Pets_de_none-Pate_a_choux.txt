@@ -5,7 +5,7 @@
 
 (page 52)
 
-==Ingrédients==
+## Ingrédients
 * 125 g farine
 * 1 verre d'eau
 * 75 g beurre
@@ -13,7 +13,7 @@
 * 1 pincée sel
 * 1 cuillerée à soupe de fleure d'oranger
 
-==Recette==
+## Recette
 Mettre l'eau, le beurre, le sucre, le sel et le parfum sur le feu. Au
 1er bouillon.
 
@@ -41,13 +41,13 @@ crème patissière.
 /*************************************************************/
 		Crème patissière
 
-==Ingrédients==
+## Ingrédients
 * 1/2 L lait
 * sucre et parfum à volonté
 * 1 cuillére 1/2 à soupe de farine
 * 1 ou 2 oeufs
 
-==Recette==
+## Recette
 Faire cuire comme une bouillie lait, sucre, parfum et farine et y
 verser 1 ou 2 oeufs entiers bien battus.
 

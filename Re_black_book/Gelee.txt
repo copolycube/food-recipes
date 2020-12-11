@@ -3,7 +3,7 @@
 		Pour faire de la gelée
 
 (page 39)
-==Ingrédients==
+## Ingrédients
 * 200 g boeuf saignant
 * 1 blanc de poireau
 * carotte
@@ -32,14 +32,14 @@ Passer ensuite dans une serviette qui a été passés à l'eau fraîche.
 		Poulet à la gelée
  
 (page 40)
-==Ingrédients==
+## Ingrédients
 * poulet
 * bouillon
 * cerfeuil
 * estragon
 * gelée
 
-==Recette==
+## Recette
 Faire pocher un poulet dans du bouillon bouillant pendant 40 minutes,
 laisser refroidir et le napper avec de la gelée; le décorer avec du
 cerfeuil et des feuilles d'estragon pochées à l'eau salées chaude et
@@ -52,14 +52,14 @@ prises dans la gelée.
 		Oeufs à la gelée
  
 (page 40)
-==Ingrédients==
+## Ingrédients
 * oeufs
 * vinaigre
 * jambon
 * feuilles estragon
 * gelée
 
-==Recette==
+## Recette
 Pocher les oeufs dans de l'eau vinaigrée. Les mettre sur une tartine
 grillée ou entre deux tranches de jambon cuit avec deux feuilles
 d'estragon et napper avec de la gelée.

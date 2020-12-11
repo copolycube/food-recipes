@@ -1,14 +1,14 @@
 		Brioche
 
 (page 27)
-==Ingrédients==
+## Ingrédients
 * 1 livre de farine
 * 10 g levure
 * sel
 * 7 oeufs
 * sucre
 
-==Recette==
+## Recette
 Pour une livre de farine
 10 grammes de levure, sel
 7 oeufs, sucre à volonté.
@@ -20,7 +20,7 @@ Pour une livre de farine
 
 (page 34)
 
-==Ingrédients==
+## Ingrédients
 * 250 g farine
 * 125 g beurre
 * 10 g levure fraîche
@@ -28,7 +28,7 @@ Pour une livre de farine
 * deux cuiller à bouche de sucre
 * deux petits oeufs
 
-==Recette==
+## Recette
 Faire la veille un petit levain avec les 10grs de levure et 60grs
 farine, un peu d'eau tiède.
 

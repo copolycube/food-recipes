@@ -1,14 +1,14 @@
 (page 2)
 		Sauce aux Câpres
 
-==Ingrédients==
+## Ingrédients
 * beurre
 * farine
 * court-bouillon de poisson
 * vinaigre
 * câpres
 
-==Recette==
+## Recette
 Mettre du beurre dans une casserole avec farine.
 Bien lier la sauce, mouiller avec le court-bouillon dans lequel a cuit
 le poisson. Au moment de servir, mettre un morceau de beurre et

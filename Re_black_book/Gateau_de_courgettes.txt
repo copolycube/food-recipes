@@ -2,7 +2,7 @@
 
 (page 75)
 
-==Ingrédients==
+## Ingrédients
 * courgettes
 * oignons
 * ail
@@ -11,7 +11,7 @@
 * 2 oeufs
 * gruyère
 
-==Recette==
+## Recette
 Faire revenir en cocotte minute courgettes, oignons, ail.
 
 Quand c'est cuit, ajouter de la farine et un peu de lait, deux oeufs,

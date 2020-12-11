@@ -2,7 +2,7 @@
 
 (page 80)
 
-==Ingrédients==
+## Ingrédients
 (1 cup = 250 g)
 * 2 cup flour
 * 1 packet levure
@@ -15,7 +15,7 @@
 * 1 tsp lemon juice
 * 1/2 cup chopped nuts
 
-==Recette==
+## Recette
 Sift flour, salt, levure
 Cream butter, add sugar, mix well, add eggs + bananas.
 Combine milk and lemon juice which will curdle.

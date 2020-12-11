@@ -2,7 +2,7 @@
 
 (page 86)
 
-==Ingrédients==
+## Ingrédients
 * courgettes
 * 2 ou 3 oeufs
 * oignons
@@ -11,7 +11,7 @@
 * noix de muscade
 * fromage
 
-==Recette==
+## Recette
 Couper les courgettes en tranches fines.
 Faire revenir de l'oignon avec du thym.
 Puis ajouter les courgettes, saler, faire griller.

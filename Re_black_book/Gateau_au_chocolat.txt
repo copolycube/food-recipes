@@ -2,14 +2,14 @@
 
 (page 56)
 
-==Ingrédients==
+## Ingrédients
 * 4 oeufs frais
 * 200g sucre en poudre
 * 80 g beurre
 * 2 cuillerées à soupe de farine
 * 125 g chocolat fondu dans un peu d'eau
 
-==Recette==
+## Recette
 Travailler ensemble le sucre, la farine, les jaunes, le beurre.
 
 Ajouter le chocolat et ensuite les blancs vattus en neige ferme.
@@ -24,7 +24,7 @@ Faire cuire trois quarts d'heure à four doux.
 
 (page 59)
 
-==Ingrédients==
+## Ingrédients
 Pour 5 personnes :
 * 125 g chocolat (+ 125 g pour le glacage)
 * 125 g sucre
@@ -32,7 +32,7 @@ Pour 5 personnes :
 *  60 g farine
 *   3 oeufs
 
-==Recette==
+## Recette
 Faire fondre le chocolat dans le beurre. Lorsque la pâte est lisse
 ajouter les jaunes d'oeufs, puis la farine et les blancs battus en
 neige.
@@ -49,14 +49,14 @@ On peut glacer le gâteau avec 125 g de chocolat en plus.
 
 (page 79)
 
-==Ingrédients==
+## Ingrédients
 * 250 g chocolat
 * 100 g beurre
 * 200 g sucre
 *   5 oeufs (blancs en neige)
 *   3 cuil. à soupe farine
 
-==Ingrédients==
+## Ingrédients
 * 200 g chocolat
 *  80 g beurre
 * 160 g sucre

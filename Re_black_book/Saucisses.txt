@@ -3,14 +3,14 @@
 
 (sorte de buche ?)
 
-==Ingrédients==
+## Ingrédients
 * 2 oeufs
 * 40 g farine
 * 50 g sucre en poudre
 * sucre cristallisé
 * confiture de groseilles ou crème moka
 
-==Recette==
+## Recette
 Séparer les blancs des jaunes. Mettre les jaunes dans un saladier,
 incorporer le sucre, joindre la famille, bien mélanger le tout et
 ajouter les blancs battus en neige.

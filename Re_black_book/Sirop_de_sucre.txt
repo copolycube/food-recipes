@@ -1,10 +1,10 @@
 (page 6)
 		Sirop de sucre
 
-==Ingrédients==
+## Ingrédients
 * eau
 * sucre
 
-==Recette==
+## Recette
 Une livre de sucre pour un demi-litre d'eau.
 (force : 30 degrés)

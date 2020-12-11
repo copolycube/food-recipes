@@ -2,7 +2,7 @@
 
 (page 35)
 
-==Ingrédients==
+## Ingrédients
 * oignons
 * carottes
 * bouquet garni
@@ -12,7 +12,7 @@
 * madère
 * champignons
 
-==Recette==
+## Recette
 Mettre dans une casserole oignons, carottes, bouquet garni, os de
 veau ou de poulet. Laisser suer et couvrir d'eau. Quand ce jus est
 cuit le passer pour faire un fond de sauce.

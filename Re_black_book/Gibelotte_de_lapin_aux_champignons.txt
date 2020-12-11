@@ -2,7 +2,7 @@
 
 (page 32)
 
-==Ingrédients==
+## Ingrédients
 * 1 lapin
 * lard ou couennes
 * champignons
@@ -14,7 +14,7 @@
 * laurier
 * thym
 
-==Recette==
+## Recette
 Couper le lapin en morceaux. Tapisser le fond de la terrine avec
 bardes de lard ou couennes.
 

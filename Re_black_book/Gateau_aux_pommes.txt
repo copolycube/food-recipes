@@ -2,7 +2,7 @@
 
 (page 76, 79)
 
-==Ingrédients==
+## Ingrédients
 *   50 g beurre
 *   1   oeuf
 * 150 g sucre
@@ -11,7 +11,7 @@
 *  1/2  paquet de levure
 *       rhum ou kirsh
 
-==Recette==
+## Recette
 Couper les pommes en dés et les faire macérer dans le rhum ou le
 kirsh.
 
