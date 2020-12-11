@@ -1,6 +1,5 @@
-		Gâteau
-
-(page 44)
+# Gâteau 
+Recette 1 (page 44)
 
 ## Ingrédients
 * 2 oeufs
@@ -18,9 +17,9 @@ Beurrer un moule et mettre au fout pas trop chaud (une bonne 1/2 heure).
 
 /*************************************************************/
 
-		Gâteau
+# Gâteau
 
-(page 55)
+Recette 2 (page 55)
 
 ## Ingrédients
 * 3/4 fromage blanc écraseé finement
@@ -35,7 +34,7 @@ Beurrer un moule et mettre au fout pas trop chaud (une bonne 1/2 heure).
 Battre le tout.
 Faire cuire à four modéré dans un moule beurré.
 
-==note==
+## note
 (sucre ?)
 
 
