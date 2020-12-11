@@ -1,10 +1,10 @@
 # food-recipes
 A directory for food recipes
 
+* [MaitreW](MaitreW/)
+* [Re_black_book](Re_black_book/)
+* [Re_Michele](Re_Michele/)
 
 # format
-* We could go with the yaml open recipe format :
-https://open-recipe-format.readthedocs.io/en/latest/topics/tutorials/walkthrough.html
 
 * for now, just use some MD formating for easy browsing.
-
