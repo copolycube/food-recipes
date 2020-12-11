@@ -16,30 +16,41 @@
 * (1  	bâton de cannelle)
 * 1 	feuille de laurier
 * 15 cl vin blanc
-*    	huile d'olive
-* 	sel
-* 	poivre
+* huile d'olive
+* sel
+* poivre
 
 
 ## Recette
 Griller à sec les pignons dans une poêle en les gardants
 blonds. Réserver. Couper l'échine de porc en petits cubes dù environ
-2 cm sur 2. Oter la peau du boudin noir et le couper en
+2 cm sur 2. 
+
+Oter la peau du boudin noir et le couper en
 morceaux. Détailler les oignons en lanières. Eplucher les gousses
-d'ail. Faire mariner les fruits secs dans le cognac durant un quart
-d'heure. Egoutter en pressant. Chauffer un filet d'huile dans un
+d'ail. 
+
+Faire mariner les fruits secs dans le cognac durant un quart
+d'heure. Egoutter en pressant. 
+
+Chauffer un filet d'huile dans un
 sautoir. Faire sauter les dés de porc et le boudin avec la cannelle et
-le laurier. Ajouter les pignons, l'ail, les fruits secs dans l
+le laurier. Ajouter les pignons, l'ail, les fruits secs dans le
 sautoir. Mélanger délicatement. Cuire doucement
-2 min. Réserver. Ajouter du beurre. Mettre les oignons dans le même
-sautoir. Les cuire 10 min. Remettre porc, boudin, fruits secs dans le
+2 min. Réserver. 
+
+Ajouter du beurre. Mettre les oignons dans le même
+sautoir. Les cuire 10 min. 
+
+Remettre porc, boudin, fruits secs dans le
 sautoir. Déglacer avec le vin blanc que l'on laisse s'évaporer
 entièrement. 
 
 
-==note==
+## note
 
 Source : Le Monde Magazine, 12 décembre 2009
+
 Pascal Krémer, "Cours trois étoiles pour réveillon de chef", page 44-47
 sur un cours de cuisine "Plats de fête" de  l'école Alain Ducasse, par
 le chef Emmanuel Lacaille.
