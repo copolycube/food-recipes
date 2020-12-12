@@ -23,6 +23,6 @@
 Et ça doit prendre pratiquement tout de suite.
 
 
-==note==
+## Notes
 Pour accompagner les viandes.
 Pour le poisson, même chose sans estragon.

@@ -16,7 +16,7 @@ fond d'un moule; y verser la crème.
 
 Recouvrir de biscuits et laisser au moins six heures dans le moule.
 
-==note==
+## Notes
 Les proportions sont toujours les mêmes : pour un oeuf, une cuiller de
 sucre en poudre et un baton de chocolat.
 

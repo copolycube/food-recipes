@@ -46,6 +46,6 @@ Mettre le tout au frais.
 Si le gazpacho n'est pas assez frais, il est possible d'y ajouter des
 glacons.
 
-==notes==
+## Notes
 Serait une recette de gazpacho andalou
 Recette d'ALK, 1999.

@@ -40,7 +40,7 @@ cuire environ 35 minutes à four modéré.
 
 /*************************************************************/
 
-==note==
+## Notes
 cf. aussi les recettes de [Brioche Mousseline].
 
 

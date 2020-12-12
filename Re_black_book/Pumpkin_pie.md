@@ -29,7 +29,7 @@ crème et le lait.
 Cuire 40 minutes à four thermostat 6.
 C'est cuit quand ça ne tremblote plus (1/2 heure à 45 minutes).
 
-==note==
+## Notes
 Bonne citrouille ou potimaron.
 
 

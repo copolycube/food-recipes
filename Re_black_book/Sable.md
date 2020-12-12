@@ -41,7 +41,7 @@ beurrée. Les dorer.
 
 Faire cuire à four chaud, 10 minutes environ.
 
-==note==
+## Notes
 Epaisseur d'une pièce de 5F = 2 à 3 cm
 
 /*************************************************************/

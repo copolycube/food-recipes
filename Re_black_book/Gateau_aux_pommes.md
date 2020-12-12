@@ -21,6 +21,6 @@ dans le rhum ou le kirsh + farine + levure
 
 Cuire 40 minutes à feu doux
 
-==note==
+## Notes
 Souvent réussi.
 Recette de Françoise.
