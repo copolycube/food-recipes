@@ -4,7 +4,7 @@ A directory for food recipes mostly in French.
 Quelques recettes majoritairement en français.
 
 
-* [MaitreW](MaitreW/)
+* [Maitre W - Recettes de cuisine chinoise](MaitreW/)
 * [Ré - black book](Re_black_book/)
 * [Ré - recettes de Michèle](Re_Michele/)
 
