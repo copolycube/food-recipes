@@ -1,4 +1,7 @@
-# Re_black_book - Liste de recettes
+# Re black book - Liste de recettes
+
+Recettes du petit cahier noir à Ré, 
+
 
  * [Apéritif](Aperitif.md)
  * [Arlesiennes](Arlesiennes.md)
@@ -101,3 +104,5 @@
  * [Truffes au chocolat](Truffes_au_chocolat.md)
  * [Vinaigre aromatisé](Vinaigre_aromatise.md)
  * [farce poularde noel2009](farce_poularde_noel2009.md)
+ 
+ (version initiale vers ~ 2010)
