@@ -2,7 +2,7 @@
 A directory for food recipes
 
 * [MaitreW](MaitreW/)
-* [Ré black book](Re_black_book/)
+* [Ré - black book](Re_black_book/)
 * [Ré - recettes de Michèle](Re_Michele/)
 
 # format
