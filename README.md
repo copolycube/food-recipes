@@ -10,4 +10,4 @@ Quelques recettes majoritairement en français.
 
 # Base 
 
-Base page : https://copolycube.github.io/food-recipes/Re_black_book/
+Base page : https://copolycube.github.io/food-recipes/
