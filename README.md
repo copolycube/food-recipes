@@ -1,10 +1,13 @@
 # food-recipes
-A directory for food recipes
+A directory for food recipes mostly in French.
+
+Quelques recettes majoritairement en français.
+
 
 * [MaitreW](MaitreW/)
 * [Ré - black book](Re_black_book/)
 * [Ré - recettes de Michèle](Re_Michele/)
 
-# format
+# Base 
 
-* for now, just use some MD formating for easy browsing.
+Base page : https://copolycube.github.io/food-recipes/Re_black_book/
