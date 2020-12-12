@@ -1,4 +1,4 @@
-		Phare Breton
+		Far Breton
 
 (page 37)
 
@@ -13,6 +13,6 @@
 Genre pâte à clafoutis.
 
 
-==notes==
+## notes
 * «Far Breton» plutôt, non ?
 * tremper les pruneaux dans la farine leur évite de couler au fond
