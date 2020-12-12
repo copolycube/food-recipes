@@ -1,4 +1,4 @@
-# Maitre W - Liste des Recettes
+# Maitre W - Recettes de cuisine chinoise
  * [Boulettes de riz gluant au porc](Boulettes de riz gluant au porc.md)
  * [Canard Pékinois](Canard Pékinois.md)
  * [Concombre (Salade)](Concombre (Salade).md)
