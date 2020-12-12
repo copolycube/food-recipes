@@ -21,6 +21,6 @@
 Pétrir les ingrédients ensemble.
 
 
-==note==
+## note
 «pâte à tout faire» aux proportions un peu variables de ma grand mère
 paternelle, Jeanne.
