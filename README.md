@@ -14,4 +14,5 @@ Quelques recettes majoritairement en français.
 ## Base 
 
 Base page (consultation) : https://copolycube.github.io/food-recipes/
+
 Base page (edition) : https://github.com/copolycube/food-recipes/
