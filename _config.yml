@@ -1,4 +1,6 @@
-theme: minimal
+# https://github.com/pages-themes/minimal
+theme: jekyll-theme-minimal
+
 
 # #from https://github.com/amitmerchant1990/reverie/blob/master/_config.yml
 # remote_theme: amitmerchant1990/reverie
