@@ -15,8 +15,10 @@ remote_theme: amitmerchant1990/reverie
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: https://copolycube.github.io/food-recipes/
-enforce_ssl: https://copolycube.github.io/food-recipes/
+# url: http://copolycube.github.io/food-recipes
+# enforce_ssl: https://copolycube.github.io/food-recipes
+url: http://copolycube.github.io/
+enforce_ssl: https://copolycube.github.io/
 
 
 #
