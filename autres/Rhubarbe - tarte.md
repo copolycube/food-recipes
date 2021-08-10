@@ -1,6 +1,6 @@
-		Tarte a la rhubarbe
+		Tarte à la rhubarbe
 
-Temps : 1h15 (avec repos) + cuisson 15+35min
+Temps : 1h15 (avec repos) & cuisson 15+35min
 
 ## Ingrédients
 * 1 pâte brisée (je l'ai faite moi-même)
