@@ -8,6 +8,7 @@ Quelques recettes majoritairement en français.
 * [Ré - black book](Re_black_book/)
 * [Ré - recettes de Michèle](Re_Michele/)
 * [Recettes de Jeanne](Jeanne/)
+* [Autres recettes en vrac](autres/)
 
 
 
