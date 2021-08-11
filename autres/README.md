@@ -3,5 +3,5 @@
 Autres recettes
 
 ## Rhubarbe
-* [](Tarte à la rhubarbe)
+* (Tarte à la rhubarbe)[Rhubarbe - tarte.md]
 * [](Gâteaux à la rhubarbe et aux amandes)
