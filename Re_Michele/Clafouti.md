@@ -8,7 +8,7 @@ Préparation ménagère du LIMOUSIN
 Sorte de flan ou crèpe épaisse aux fruits, le plus souvent aux cerises
 noires.
 
-==Ingrédients==
+## Ingrédients
 * 125 grs de farine
 *   2 oeufs
 * 100 grs de sucre en poudre dont la moitié est réservée pour
@@ -19,7 +19,7 @@ saupoudrer les fruits
 * 1/2 paquet de levure alsacienne
 *   1 paquet de sucre vanillé
 
-==Recette==
+## Recette
 
 Mettre la pâte puis  les cerises dénoyautées dans une tourtière
 beurrée.
@@ -27,9 +27,9 @@ beurrée.
 Cuire à four moyen.
 
 
-OU :
+# autre version
 		
-==Ingrédients==
+## Ingrédients
 * 200 grs farine
 * 3 oeufs
 * 1 pincée de sel
