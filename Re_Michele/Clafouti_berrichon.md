@@ -5,7 +5,7 @@
 Recette J. CUOC
 
 Pour 4 personnes:
-==Ingrédients==
+## Ingrédients
 * 4 oeufs
 * 4 Cuill. à soupe de sucre semoule rases
 * 4 Cuill. à soupe de farine tamisée
@@ -16,7 +16,7 @@ Pour 4 personnes:
 * 1 Cuill. à soupe de Kirch pour le Clafouti aux Cerises.
 * 750 Grs de Cerises Noires
 
-==Recette==
+## Recette
 Battre au Miwer les oeufs, le sucre, le sucre vanillé, ajouter la
 farine, la levure, le lait, le kirch.
 
