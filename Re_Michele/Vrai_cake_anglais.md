@@ -2,7 +2,7 @@
 
 (page 1)
 
-==Ingrédients==
+## Ingrédients
 * 200 grs de Maizena.
 * 300 grs de farine,
 * 200 grs sucre en poudre
@@ -16,7 +16,7 @@
 * 100 grs de fruits confits coupés en dés,
 * 1 petit verre de rhum.
 
-==Recette==
+## Recette
 1. Laver les raisins et faites-les macerer avec les fruits confits
 dans le rhum.
 
