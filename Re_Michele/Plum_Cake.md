@@ -2,7 +2,7 @@
 
 (page 2)
 
-==Ingrédients==
+## Ingrédients
 * 160 Grammes de Beurre
 * 160   "     de Farine
 * 160	"     de Sucre
@@ -11,7 +11,7 @@
 *   3 Oeufs (Blancs et jaunes)
 * rhum
 
-==Recette==
+## Recette
 
 Mettre d'abord le beurre fondu et tiède dans une casserole, le sucre,
 les oeufs, puis la farine tout doucement. Ajouter un verre de rhum.
