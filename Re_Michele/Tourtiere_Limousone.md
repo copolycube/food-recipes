@@ -3,7 +3,7 @@
 (page 0 bis)
 Pour 5-6 personnes
 
-==Ingrédients==
+## Ingrédients
 1°) Brioche
 * 250 grs de Farine
 * 3 Oeufs
@@ -22,7 +22,7 @@ la poele.
 * echine de porc + lard de poitrine haces, saler,
 poivrer, ou chaire a saucisses pur porc.
 
-==Recette==
+## Recette
 
 Faire cuire pommes de terre, ajouter la
 chair + ail et persil melanges, la valeur
@@ -30,7 +30,8 @@ d'un verre. Cuire les 2 produits (pommes
 de terre et chair) presque completement.
 
 Beurrer un moule creux a bords hauts.
-Royler la moitie de la pate au rouleauu a
+
+Rouler la moitie de la pate au rouleauu a
 patisserie, la pate est molle et ceci est
 un peu difficile. Garnir le moule, ajouter
 la face et remettre l'autre moitie dessuss.
