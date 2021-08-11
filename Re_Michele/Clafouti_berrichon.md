@@ -17,7 +17,7 @@ Pour 4 personnes:
 * 750 Grs de Cerises Noires
 
 ## Recette
-Battre au Miwer les oeufs, le sucre, le sucre vanillé, ajouter la
+Battre au Mixer les oeufs, le sucre, le sucre vanillé, ajouter la
 farine, la levure, le lait, le kirch.
 
 Battre en 3 fois, le lait et le kirch en dernieer.
