@@ -5,12 +5,12 @@
 
 Pour 10 personnes
 
-==Ingrédients==
+## Ingrédients
 * 1 ko de Chair a saucisses
 * 1 Livre de Pommes de terre 
   (Meme volume de chair et de pommes de terre)
 
-==Recette==
+## Recette
 
 Couper les pommes de terre en fines lamelles.
 cuire la chair doucement d'abord, (tres doucement),
@@ -19,11 +19,11 @@ avec ail, persil, poivre et sel. Ne pas faire cuire
 l'ail et le persil, les mettre a la fin de la cuisson
 
 
-		PATE BRIOCHEE
+# 		PATE BRIOCHEE
 
 (page 2, suite précedente)
 
-==Ingrédients==
+## Ingrédients
 * 6 Oeufs
 * 25 grs de Levure fraiche
 * 1 Livre de Farine
@@ -32,7 +32,7 @@ l'ail et le persil, les mettre a la fin de la cuisson
 * Sucre (1 cuille. a soupe)
 * Lait ou eau (1 cuill. a soupe)
 
-==Recette==
+## Recette
 
 Laisser lever 4 heures
 
