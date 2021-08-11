@@ -2,9 +2,9 @@
 
 (page 1)
 
-# LA PATE (pour 12 crepes):
+## LA PATE (pour 12 crepes):
 
-## Ingrédients
+### Ingrédients
 * 125 gr farine
 * 2 oeufs entiers
 * un grand verre de lait
@@ -13,21 +13,32 @@
 * 1 cuilleree d'alcool de framboise
 * 1 pincee de sel.
 
-## Recette 
+### Recette 
 Preparer la pate en melangeant tous ces ingredients.
 
-- LA CREPE FRANGIPANE:
+## LA CREPE FRANGIPANE:
+### Ingrédients
+* 40 g farine
+* 1 oeuf
+* 1 jaune d'oeuf
+* 1/4 L lait 
+* 30 g beurre
+* 25g macarons écrasés
+* 1/2 pot de confiture de framboise avec pépins
+* 
+### Recette 
+
 Mettez dans un recipien 40 grs de farine. Cassez dessus un oeuf entier
 et un jaune. Remuez. 
 
 Ajouter 1/4 de litre de lait  bouillant. Placez sur le feu et laisser
 donner quelqus bouillons. 
 
-Hors du feu, ajoutez 30 grs de beurre, 25grs de macarons ecrases, puis
-1/2 pot de confiture de framboise avec pepins.
+Hors du feu, ajoutez 30 grs de beurre, 25grs de macarons écrasés, puis
+1/2 pot de confiture de framboise avec pépins.
 
 
-- LA PRESENTATION :
+## LA PRESENTATION :
 Fourrez les crepes avec la creme. Pliez-les en quatre et disposez-les
 en quatre et disposez-les sur un plat en metal.
 
@@ -40,7 +51,7 @@ citron.
 Faites rechauffer le plat au four, saupoudrez legerement de sucre,
 arrosez avec de l'alcool de framboise tiedi et flamber. 
 
-On peut supprimer la freme frangimane si l'on manque de temps, et ne
+On peut supprimer la crème frangipane si l'on manque de temps, et ne
 fourrer qu'avec de la confiture de framboise. Faire flamber de la même
 facon.
 
