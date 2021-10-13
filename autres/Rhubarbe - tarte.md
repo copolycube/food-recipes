@@ -3,7 +3,7 @@
 Temps : 1h15 (avec repos) & cuisson 15+35min
 
 ## Ingrédients
-* 1 pâte brisée (je l'ai faite moi-même)
+* 1 pâte brisée 
 * 600 g de rhubarbe
 * 2 oeufs
 * 20g + 60 g de sucre
