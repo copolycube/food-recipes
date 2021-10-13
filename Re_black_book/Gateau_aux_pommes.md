@@ -25,10 +25,12 @@ Cuire 40 minutes à feu doux
 ## Recette (plus de détails)
 
 * Couper les pommes en dés (2 à 3cm de côté) et les faire macérer  dans un peu de rhum
-faire fondre le beurre. 
+* faire fondre le beurre. 
 * Mélanger le sucre et oeuf jusqu'à ce que le mélange blanchisse.
-* Ajouter le beurre fondu
-* Les ajouter au mélange et ajouter farine et levure
+* Ajouter le beurre fondu.
+* Ajouter les pommes au mélange
+* Ajouter farine et levure
+
 
 * Mettre dans un moule beurré + fariné (ou mettre du papier cuisson dans le moule)
 * Cuire à four doux ( ~ 180° C ) pendant 40 mn
