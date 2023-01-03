@@ -33,9 +33,12 @@ Cuire 40 minutes à feu doux
 
 
 * Mettre dans un moule beurré + fariné (ou mettre du papier cuisson dans le moule)
-* Cuire à four doux ( ~ 180° C ) pendant 40 mn
+* Cuire à four doux ( ~ 180° C ) pendant 40 minutes
 
 
 ## Notes
-Souvent réussi.
-Recette de Françoise.
+* Souvent réussi.
+* Recette de Françoise S.
+* Paris: en doublant, plat à manqué circulaire
+* Mtl: en doublant, plat carré bleu, cuisson à coeur 85°C (environ 50min)
+
